@@ -7,7 +7,7 @@
     "https://json.schemastore.org/github-workflow.json": [
       ".github/workflows/*.{yml,yaml}"
     ],
-    "https://zigflow.dev/schema.yaml": [
+    "./docs/static/schema.yaml": [
       "workflow.example.yaml",
       "workflow.yaml",
       "zigflow.yaml"
