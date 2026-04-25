@@ -18,5 +18,5 @@ package examples
 
 import "embed"
 
-//go:embed all:*
+//go:embed */workflow.yaml */info.yaml */README.md
 var EmbeddedFS embed.FS

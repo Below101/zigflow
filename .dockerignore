@@ -7,3 +7,11 @@ tmp
 ui
 *.md
 skaffold.yaml
+
+examples/**/.venv
+examples/**/node_modules
+examples/**/dist
+examples/**/.next
+examples/**/coverage
+examples/**/.cache
+examples/**/tmp
